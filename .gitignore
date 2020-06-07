@@ -1,0 +1,63 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio bits (Added by JLC)
+*.pch
+*.suo
+*.obj
+*.ilk
+*.lib
+*.exe
+*.dep
+*.pdb
+*.ncb
+*.idb
+*.htm
+*.dll
+*.res
+*.map
+*.RES
+*.manifest
+*.cod
+*.user
+*.ipch
+*.db
+*.log
+*.tlog
+*.exp
+Debug/
+Release/
+.vs/
+
+ains.dds
+*.nes
